@@ -29,6 +29,6 @@
     <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="excel" width="40" height="40"/> </a>
 </p>
 
-<p><img width=45% height=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciussonntagdorow&show_icons=true&locale=en&layout=compact&theme=dracula" alt="viniciussonntagdorow" /></p>
+<p><img border-width= "thin" width=25% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciussonntagdorow&show_icons=true&locale=en&layout=compact&theme=transparent" alt="viniciussonntagdorow" /></p>
 
-<p>&nbsp;<img width=45% height=300 align="right" src="https://github-readme-stats.vercel.app/api?username=viniciussonntagdorow&show_icons=true&locale=en&theme=dracula" alt="viniciussonntagdorow" /></p>
+
