@@ -23,4 +23,3 @@
 
 <p><img border-width= "thin" width=25% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciussonntagdorow&show_icons=true&locale=en&layout=compact&theme=transparent" alt="viniciussonntagdorow" /></p>
 
-![3odR](https://github.com/ViniciusSonntagDorow/ViniciusSonntagDorow/assets/56136409/ac3203a1-6597-4a06-a6fd-4fd0dd926249)
