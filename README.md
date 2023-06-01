@@ -5,14 +5,6 @@
 
 ![3odR](https://github.com/ViniciusSonntagDorow/ViniciusSonntagDorow/assets/56136409/ac3203a1-6597-4a06-a6fd-4fd0dd926249)
 
-- 🔭 I’m currently working as a **Data Analyst**
-
-- 🌱 I’m currently learning **Data Pipelines**
-
-- 💬 Ask me about **SQL, Python, Power BI**
-
-- 📫 How to reach me **vinicius.s.dorow@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viniciussonntagdorow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciussonntagdorow" height="30" width="40" /></a>
