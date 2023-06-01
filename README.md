@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Vinicius Sonntag</h1>
 <h3 align="center">Brazilian | Information Systems Student | Data Analyst</h3>
 
-![3odR](https://github.com/ViniciusSonntagDorow/ViniciusSonntagDorow/assets/56136409/ac3203a1-6597-4a06-a6fd-4fd0dd926249)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viniciussonntagdorow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciussonntagdorow" height="30" width="40" /></a>
@@ -25,5 +23,4 @@
 
 <p><img border-width= "thin" width=25% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciussonntagdorow&show_icons=true&locale=en&layout=compact&theme=transparent" alt="viniciussonntagdorow" /></p>
 
-<p align="right"> <img src="https://i.gifer.com/3odR.gif" alt="Coding" > </p>
-
+![3odR](https://github.com/ViniciusSonntagDorow/ViniciusSonntagDorow/assets/56136409/ac3203a1-6597-4a06-a6fd-4fd0dd926249)
